@@ -1,0 +1,11 @@
+{
+  "name": "Main Maven Library CI",
+  "description": "CI workflow for versioning and deploying maven artifacts on pushes to main.",
+  "iconName": "maven",
+  "categories": [
+    "Maven POM"
+  ],
+  "filePatterns": [
+    "pom.xml"
+  ]
+}
